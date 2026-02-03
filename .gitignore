@@ -1,2 +1,15 @@
+# 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
+
 data/
-training/
+
+# Model weights & Checkpoints
+*.pth
+*.pt
+*.h5
+*.weights
+*.onnx
+*.pb
+*.tflite
+*.ckpt
+*.bin
+*.torchscript
