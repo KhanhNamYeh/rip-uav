@@ -1,5 +1,6 @@
 
-data/
+*.jpg
+*.txt
 
 # # Model weights & Checkpoints
 # *.pth
