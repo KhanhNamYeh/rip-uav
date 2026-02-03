@@ -1,0 +1,6 @@
+path: data/train
+train: train_path.txt
+val: val_path.txt
+nc: 1
+names:
+  0: rip_currents

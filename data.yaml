@@ -1,0 +1,6 @@
+path: /home/urlab/urlab/RipCurr/data/
+train: train/images
+val: val/images
+nc: 1
+names:
+  0: rip_currents
