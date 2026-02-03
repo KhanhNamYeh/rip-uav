@@ -1,15 +1,14 @@
 
 data/
-training/
 
 # # Model weights & Checkpoints
 # *.pth
-# *.pt
+*.pt
 # *.h5
 # *.weights
-# *.onnx
+*.onnx
 # *.pb
 # *.tflite
 # *.ckpt
 # *.bin
-# *.torchscript
+*.torchscript
