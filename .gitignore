@@ -1,6 +1,8 @@
 
 *.jpg
 *.txt
+*.json
+
 
 # # Model weights & Checkpoints
 # *.pth
